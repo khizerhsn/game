@@ -2,3 +2,8 @@ Amazon web service is a platform that offers flexible, reliable, scalable, easy-
 
 
 In 2006, Amazon Web Services (AWS) began offering
+
+
+S3
+EC2
+EBS
